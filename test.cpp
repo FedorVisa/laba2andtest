@@ -1,5 +1,5 @@
 #include "pch.h"
-#include "header1.h"
+#include "Source1.cpp"
 
 TEST(TestcheckLetter, minusvvod) {
     for (int i = -128; i < 0; i++) {
